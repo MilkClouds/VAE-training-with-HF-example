@@ -19,3 +19,8 @@ poetry run accelerate config
 # launch training
 poetry run accelerate launch train.py
 ```
+
+# Output Images
+
+![latent_space](./outputs/latent_space.png)
+![repr_VAE_flat](./outputs/repr_VAE_flat.png)
